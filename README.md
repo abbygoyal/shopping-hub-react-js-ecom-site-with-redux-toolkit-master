@@ -1,9 +1,9 @@
 ## shopping-hub-react-js-ecom-site-with-redux-toolkit-master
 
-Shooping Website
+Shooping E-Commerce Website 
 
 ## Live Project Link
-[Shopping Hub](https://)
+[Shopping Hub](https://splendorous-melba-23b05c.netlify.app/)
 
 # How to fork and clone
 
